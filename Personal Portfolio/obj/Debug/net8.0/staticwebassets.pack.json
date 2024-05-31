@@ -5,198 +5,6 @@
       "PackagePath": "staticwebassets\\Personal Portfolio.bundle.scp.css"
     },
     {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\FontAwesome.otf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts-A\\FontAwesome.otf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts-A\\fontawesome-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts-A\\fontawesome-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts-A\\fontawesome-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts-A\\fontawesome-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bold-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bold-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bold-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bold-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-italic-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-italic-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-italic-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-italic-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-regular-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-regular-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-regular-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\lora-regular-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\stylesheet.css",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\lora\\stylesheet.css"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-bold-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-bold-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-bold-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff2",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-light-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-light-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-light-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff2",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-medium-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-medium-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-medium-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff2",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-regular-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-regular-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-regular-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff2",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.eot",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.eot"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.svg",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.svg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.ttf",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.ttf"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff2",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff2"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\stylesheet.css",
-      "PackagePath": "staticwebassets\\Fonts\\fonts\\poppins\\stylesheet.css"
-    },
-    {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Pictures\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\Pictures\\images\\bg.jpg"
     },
@@ -301,8 +109,212 @@
       "PackagePath": "staticwebassets\\css\\vendor.css"
     },
     {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-bolditalic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-italic-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\lora\\lora-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\lora\\stylesheet.css"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-bold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-light-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-medium-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-regular-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.eot"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.svg"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.woff"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\poppins-semibold-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\stylesheet.css",
+      "PackagePath": "staticwebassets\\fonts\\poppins\\stylesheet.css"
     },
     {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\js\\jquery-2.1.3.min.js",

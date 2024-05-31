@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7tQBCdrJCcvXA7lRgfzlOKhtFS08Tiy2RfmT3VnXWmU=",
+  "Hash": "RUXjOh79x+8P80wjHyRYvANlrZxSr8UxRE0QRPU95hE=",
   "Source": "Personal Portfolio",
   "BasePath": "_content/Personal Portfolio",
   "Mode": "Default",
@@ -207,12 +207,12 @@
       "OriginalItemSpec": "wwwroot\\css\\vendor.css"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "favicon.ico",
+      "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bolditalic-webfont.eot",
+      "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bolditalic-webfont.svg",
+      "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bolditalic-webfont.ttf",
+      "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bolditalic-webfont.woff",
+      "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bolditalic-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bold-webfont.eot",
+      "RelativePath": "fonts/icomoon.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\icomoon.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bold-webfont.svg",
+      "RelativePath": "fonts/icomoon.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\icomoon.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bold-webfont.ttf",
+      "RelativePath": "fonts/icomoon.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\icomoon.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\icomoon.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-bold-webfont.woff",
+      "RelativePath": "fonts/icomoon.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-bold-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\icomoon.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-italic-webfont.eot",
+      "RelativePath": "fonts/lora/lora-bolditalic-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bolditalic-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-italic-webfont.svg",
+      "RelativePath": "fonts/lora/lora-bolditalic-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bolditalic-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-italic-webfont.ttf",
+      "RelativePath": "fonts/lora/lora-bolditalic-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bolditalic-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bolditalic-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-italic-webfont.woff",
+      "RelativePath": "fonts/lora/lora-bolditalic-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-italic-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bolditalic-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-regular-webfont.eot",
+      "RelativePath": "fonts/lora/lora-bold-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bold-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-regular-webfont.svg",
+      "RelativePath": "fonts/lora/lora-bold-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bold-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-regular-webfont.ttf",
+      "RelativePath": "fonts/lora/lora-bold-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bold-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-bold-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/lora-regular-webfont.woff",
+      "RelativePath": "fonts/lora/lora-bold-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\lora-regular-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-bold-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\lora\\stylesheet.css",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/lora/stylesheet.css",
+      "RelativePath": "fonts/lora/lora-italic-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\lora\\stylesheet.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-italic-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-bold-webfont.eot",
+      "RelativePath": "fonts/lora/lora-italic-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-italic-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-bold-webfont.svg",
+      "RelativePath": "fonts/lora/lora-italic-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-italic-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-italic-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-bold-webfont.ttf",
+      "RelativePath": "fonts/lora/lora-italic-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-italic-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-bold-webfont.woff",
+      "RelativePath": "fonts/lora/lora-regular-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-regular-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff2",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-bold-webfont.woff2",
+      "RelativePath": "fonts/lora/lora-regular-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-bold-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-regular-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-light-webfont.eot",
+      "RelativePath": "fonts/lora/lora-regular-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-regular-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\lora-regular-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-light-webfont.svg",
+      "RelativePath": "fonts/lora/lora-regular-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -679,15 +679,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\lora-regular-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\lora\\stylesheet.css",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-light-webfont.ttf",
+      "RelativePath": "fonts/lora/stylesheet.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +698,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\lora\\stylesheet.css"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-light-webfont.woff",
+      "RelativePath": "fonts/poppins/poppins-bold-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-bold-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff2",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-light-webfont.woff2",
+      "RelativePath": "fonts/poppins/poppins-bold-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,15 +736,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-light-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-bold-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-medium-webfont.eot",
+      "RelativePath": "fonts/poppins/poppins-bold-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,15 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-bold-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-medium-webfont.svg",
+      "RelativePath": "fonts/poppins/poppins-bold-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -774,15 +774,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff2",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-medium-webfont.ttf",
+      "RelativePath": "fonts/poppins/poppins-bold-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,15 +793,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-bold-webfont.woff2"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-medium-webfont.woff",
+      "RelativePath": "fonts/poppins/poppins-light-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,15 +812,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-light-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff2",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-medium-webfont.woff2",
+      "RelativePath": "fonts/poppins/poppins-light-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-medium-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-light-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-regular-webfont.eot",
+      "RelativePath": "fonts/poppins/poppins-light-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,15 +850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-light-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-regular-webfont.svg",
+      "RelativePath": "fonts/poppins/poppins-light-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -869,15 +869,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-light-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-light-webfont.woff2",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-regular-webfont.ttf",
+      "RelativePath": "fonts/poppins/poppins-light-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -888,15 +888,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-light-webfont.woff2"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-regular-webfont.woff",
+      "RelativePath": "fonts/poppins/poppins-medium-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -907,15 +907,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-medium-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff2",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-regular-webfont.woff2",
+      "RelativePath": "fonts/poppins/poppins-medium-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -926,15 +926,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-regular-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-medium-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-semibold-webfont.eot",
+      "RelativePath": "fonts/poppins/poppins-medium-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -945,15 +945,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-medium-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-semibold-webfont.svg",
+      "RelativePath": "fonts/poppins/poppins-medium-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -964,15 +964,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff2",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-semibold-webfont.ttf",
+      "RelativePath": "fonts/poppins/poppins-medium-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-medium-webfont.woff2"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-semibold-webfont.woff",
+      "RelativePath": "fonts/poppins/poppins-regular-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1002,15 +1002,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-regular-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff2",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/poppins-semibold-webfont.woff2",
+      "RelativePath": "fonts/poppins/poppins-regular-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1021,15 +1021,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\poppins-semibold-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-regular-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts\\poppins\\stylesheet.css",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts/poppins/stylesheet.css",
+      "RelativePath": "fonts/poppins/poppins-regular-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1040,15 +1040,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts\\poppins\\stylesheet.css"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-regular-webfont.ttf"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\FontAwesome.otf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts-A/FontAwesome.otf",
+      "RelativePath": "fonts/poppins/poppins-regular-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1059,15 +1059,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts-A\\FontAwesome.otf"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.eot",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff2",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts-A/fontawesome-webfont.eot",
+      "RelativePath": "fonts/poppins/poppins-regular-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1078,15 +1078,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-regular-webfont.woff2"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.svg",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.eot",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts-A/fontawesome-webfont.svg",
+      "RelativePath": "fonts/poppins/poppins-semibold-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1097,15 +1097,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-semibold-webfont.eot"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.svg",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts-A/fontawesome-webfont.ttf",
+      "RelativePath": "fonts/poppins/poppins-semibold-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1116,15 +1116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-semibold-webfont.svg"
     },
     {
-      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.woff",
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.ttf",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
       "BasePath": "_content/Personal Portfolio",
-      "RelativePath": "Fonts/fonts-A/fontawesome-webfont.woff",
+      "RelativePath": "fonts/poppins/poppins-semibold-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1135,7 +1135,64 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Fonts\\fonts-A\\fontawesome-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-semibold-webfont.ttf"
+    },
+    {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "fonts/poppins/poppins-semibold-webfont.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff"
+    },
+    {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff2",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "fonts/poppins/poppins-semibold-webfont.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\poppins-semibold-webfont.woff2"
+    },
+    {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\fonts\\poppins\\stylesheet.css",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "fonts/poppins/stylesheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\fonts\\poppins\\stylesheet.css"
     },
     {
       "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\js\\jquery-2.1.3.min.js",

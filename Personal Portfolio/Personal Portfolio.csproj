@@ -10,20 +10,19 @@
   <ItemGroup>
     <None Include="wwwroot\css\base.css" />
     <None Include="wwwroot\css\font-awesome.css" />
-    <None Include="wwwroot\css\font-awesome.min.css" />
     <None Include="wwwroot\css\fonts.css" />
     <None Include="wwwroot\css\main.css" />
     <None Include="wwwroot\css\micons.css" />
     <None Include="wwwroot\css\vendor.css" />
-    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.eot" />
-    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.svg" />
-    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.ttf" />
-    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.woff" />
-    <None Include="wwwroot\Fonts\fonts-A\FontAwesome.otf" />
-    <None Include="wwwroot\Fonts\icomoon.eot" />
-    <None Include="wwwroot\Fonts\icomoon.svg" />
-    <None Include="wwwroot\Fonts\icomoon.ttf" />
-    <None Include="wwwroot\Fonts\icomoon.woff" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\fonts\icomoon.eot" />
+    <None Include="wwwroot\fonts\icomoon.svg" />
+    <None Include="wwwroot\fonts\icomoon.ttf" />
+    <None Include="wwwroot\fonts\icomoon.woff" />
     <None Include="wwwroot\js\main.js" />
     <None Include="wwwroot\js\modernizr.js" />
     <None Include="wwwroot\Pictures\images\favicon.png" />
@@ -44,11 +43,6 @@
     <None Include="wwwroot\Pictures\images\portfolio\shutterbug.jpg" />
     <None Include="wwwroot\Pictures\images\profile-pic.jpg" />
     <None Include="wwwroot\Pictures\images\sample-image.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Kards10\css\font-awesome\css\" />
-    <Folder Include="Kards10\css\micons\fonts\" />
   </ItemGroup>
 
   <ItemGroup>
