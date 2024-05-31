@@ -8,7 +8,7 @@ namespace Personal_Portfolio.Data
 		public ContactContext(DbContextOptions<ContactContext> options) : base(options)
 			{ }
 
-		public DbSet<Personal_Portfolio.Models.ContactInfo> Contacts { get; set; }
+		public DbSet<ContactInfo> Contacts { get; set; }
 
 	}
 }

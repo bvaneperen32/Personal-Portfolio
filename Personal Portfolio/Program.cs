@@ -1,7 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using Personal_Portfolio.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<ContactContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ContactInfo")));
 
 var app = builder.Build();
 

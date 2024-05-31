@@ -1,4 +1,6 @@
-﻿@{
+﻿@model ContactInfo; 
+
+@{
 	ViewData["Title"] = "Contact";
 }
 <section id="contact">
@@ -14,28 +16,35 @@
 		</div>
 	</div> <!-- /section-intro -->
 
+	@if (ViewBag.Messsage != null)
+	{
+		<div id="message-success">
+			<i class="fa fa-check"></i>@ViewBag.Message<br />
+		</div>
+	}
 	<div class="row contact-form">
-
 		<div class="col-twelve">
-
 			<!-- form -->
-			<form name="contactForm" id="contactForm" method="post" action="">
+			<form asp-action="SubmitContactForm" asp-controller="Contact" method="post">
 				<fieldset>
-
 					<div class="form-field">
-						<input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
+						<input asp-for="Name" class="form-control" placeholder="Name" />
+						<span asp-validation-for="Name" class="text-danger"></span>
 					</div>
 					<div class="form-field">
-						<input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
+						<input asp-for="Email" class="form-control" placeholder="Email" />
+						<span asp-validation-for="Email" class="text-danger"></span>
 					</div>
 					<div class="form-field">
-						<input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
+						<input asp-for="Subject" class="form-control" placeholder="Subject" />
+						<span asp-validation-for="Subject" class="text-danger"></span>
 					</div>
 					<div class="form-field">
-						<textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
+						<textarea asp-for="Message" class="form-control" placeholder="Message" rows="10" cols="50"></textarea>
+						<span asp-validation-for="Message" class="text-danger"></span>
 					</div>
 					<div class="form-field">
-						<button class="submitform">Submit</button>
+						<button type="submit" class="submitform">Submit</button>
 						<div id="submit-loader">
 							<div class="text-loader">Sending...</div>
 							<div class="s-loader">
@@ -45,19 +54,15 @@
 							</div>
 						</div>
 					</div>
-
 				</fieldset>
-			</form> <!-- Form End -->
+			</form>
 			<!-- contact-warning -->
-			<div id="message-warning">
-			</div>
+			<div id="message-warning"></div>
 			<!-- contact-success -->
 			<div id="message-success">
 				<i class="fa fa-check"></i>Your message was sent, thank you!<br>
 			</div>
-
 		</div> <!-- /col-twelve -->
-
 	</div> <!-- /contact-form -->
 
 	<div class="row contact-info">
