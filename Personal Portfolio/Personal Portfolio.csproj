@@ -7,4 +7,57 @@
     <RootNamespace>Personal_Portfolio</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\base.css" />
+    <None Include="wwwroot\css\font-awesome.css" />
+    <None Include="wwwroot\css\font-awesome.min.css" />
+    <None Include="wwwroot\css\fonts.css" />
+    <None Include="wwwroot\css\main.css" />
+    <None Include="wwwroot\css\micons.css" />
+    <None Include="wwwroot\css\vendor.css" />
+    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.eot" />
+    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.svg" />
+    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\Fonts\fonts-A\fontawesome-webfont.woff" />
+    <None Include="wwwroot\Fonts\fonts-A\FontAwesome.otf" />
+    <None Include="wwwroot\Fonts\icomoon.eot" />
+    <None Include="wwwroot\Fonts\icomoon.svg" />
+    <None Include="wwwroot\Fonts\icomoon.ttf" />
+    <None Include="wwwroot\Fonts\icomoon.woff" />
+    <None Include="wwwroot\js\main.js" />
+    <None Include="wwwroot\js\modernizr.js" />
+    <None Include="wwwroot\Pictures\images\favicon.png" />
+    <None Include="wwwroot\Pictures\images\bg.jpg" />
+    <None Include="wwwroot\Pictures\images\intro-bg.jpg" />
+    <None Include="wwwroot\Pictures\images\logo.png" />
+    <None Include="wwwroot\Pictures\images\portfolio\beetle.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\clouds.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\liberty.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\lighthouse.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-beetle.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-clouds.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-liberty.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-lighthouse.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-salad.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\modals\m-shutterbug.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\salad.jpg" />
+    <None Include="wwwroot\Pictures\images\portfolio\shutterbug.jpg" />
+    <None Include="wwwroot\Pictures\images\profile-pic.jpg" />
+    <None Include="wwwroot\Pictures\images\sample-image.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Kards10\css\font-awesome\css\" />
+    <Folder Include="Kards10\css\micons\fonts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.6">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
 </Project>
