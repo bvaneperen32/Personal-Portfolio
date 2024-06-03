@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pZZXj0hPSYymupZLf2n8wLq8x56/QogmoTS39RRtlpI=",
+  "Hash": "DVnHhupWdGH94DtL6zHVJ3WBSnNMSi57u1ZUtkOLU1I=",
   "Source": "Personal Portfolio",
   "BasePath": "_content/Personal Portfolio",
   "Mode": "Default",
@@ -1214,6 +1214,25 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\CustomLogo.png",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "images/CustomLogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\CustomLogo.png"
+    },
+    {
       "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\favicon.png",
       "SourceId": "Personal Portfolio",
       "SourceType": "Discovered",
@@ -1231,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\GPT-bg.png",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "images/GPT-bg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GPT-bg.png"
     },
     {
       "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\intro-bg.jpg",

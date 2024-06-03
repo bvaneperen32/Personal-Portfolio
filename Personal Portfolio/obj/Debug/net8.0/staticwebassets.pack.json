@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\fonts\\poppins\\stylesheet.css"
     },
     {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\CustomLogo.png",
+      "PackagePath": "staticwebassets\\images\\CustomLogo.png"
+    },
+    {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\GPT-bg.png",
+      "PackagePath": "staticwebassets\\images\\GPT-bg.png"
+    },
+    {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\bg.jpg"
     },

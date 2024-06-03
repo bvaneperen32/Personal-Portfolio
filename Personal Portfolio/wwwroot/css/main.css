@@ -1096,7 +1096,7 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
+	min-width: 190px;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
@@ -1104,9 +1104,9 @@ header .top-bar {
 }
 header .logo {
 	float: left;
-	margin-left: 20px;
-	margin-right: 50px;
-	margin-top: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 18px;
 	position: relative;
 }
 header .logo a {
@@ -1118,9 +1118,9 @@ header .logo a {
 	text-shadow: none;
 	color: transparent;
 	width: 92px;
-	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
-	background-size: 92px 15px;
+	height: 30px;
+	background: url("../images/CustomLogo.png") no-repeat center;
+	background-size: 92px 30px;
 }
 
 /**
@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro-bg.jpg) no-repeat center bottom;
+	background: #151515 url(../images/GPT-bg.png) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
