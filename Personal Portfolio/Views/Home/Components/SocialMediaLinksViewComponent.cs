@@ -13,9 +13,10 @@ namespace Personal_Portfolio.Views.Home.Components
             _socialMediaService = socialMediaService;
         }
 
-        public async Task<IViewComponentResult> InvokeAsync()
+        public async Task<IViewComponentResult> InvokeAsync(string cssClass)
         {
             var socialMediaLinks = await _socialMediaService.GetSocialMediaLinksAsync();
+            ViewBag.CssClass = cssClass;
             return View(socialMediaLinks);
         }
     }
