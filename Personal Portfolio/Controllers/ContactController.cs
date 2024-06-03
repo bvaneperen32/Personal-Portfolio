@@ -14,23 +14,25 @@ namespace Personal_Portfolio.Controllers
 			_context = context;
 		}
 
+		[HttpGet]
 		public IActionResult Contact()
 		{
-			return View(); 
+			return View("~/Views/Home/Contact.cshtml"); 
 		}
 
-		public async Task<IActionResult> SubmitContactForm(ContactInfo contact)
+		[HttpPost]
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> SubmitContactForm(ContactInfo contactInfo)
 		{
-			if (ModelState.IsValid)
-			{
-				_context.Contacts.Add(contact);
+			if (ModelState.IsValid) {
+				_context.Add(contactInfo);
 				await _context.SaveChangesAsync();
-
-				ViewBag.Message = "Your message was sent, thank you!"; 
-				return View("Contact");
+				return RedirectToAction(nameof(Contact));
 			}
 
-			return View("Contact", contact);
+			return View("~/Views/Home/Contact.cshtml", contactInfo);
 		}
+
+
 	}
 }
