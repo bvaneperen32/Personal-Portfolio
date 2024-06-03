@@ -261,6 +261,10 @@
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\headshot.png",
+      "PackagePath": "staticwebassets\\images\\headshot.png"
+    },
+    {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\intro-bg.jpg",
       "PackagePath": "staticwebassets\\images\\intro-bg.jpg"
     },
@@ -269,52 +273,16 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\beetle.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\beetle.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\clouds.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\clouds.jpg"
-    },
-    {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\liberty.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\liberty.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\lighthouse.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\lighthouse.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-beetle.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-beetle.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-clouds.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-clouds.jpg"
     },
     {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-liberty.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-liberty.jpg"
     },
     {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-lighthouse.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-lighthouse.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-salad.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-salad.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\modals\\m-shutterbug.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\modals\\m-shutterbug.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\salad.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\salad.jpg"
-    },
-    {
-      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\shutterbug.jpg",
-      "PackagePath": "staticwebassets\\images\\portfolio\\shutterbug.jpg"
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\portfolioImage.png",
+      "PackagePath": "staticwebassets\\images\\portfolio\\portfolioImage.png"
     },
     {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\profile-pic.jpg",

@@ -29,18 +29,8 @@
     <None Include="wwwroot\images\bg.jpg" />
     <None Include="wwwroot\images\intro-bg.jpg" />
     <None Include="wwwroot\images\logo.png" />
-    <None Include="wwwroot\images\portfolio\beetle.jpg" />
-    <None Include="wwwroot\images\portfolio\clouds.jpg" />
     <None Include="wwwroot\images\portfolio\liberty.jpg" />
-    <None Include="wwwroot\images\portfolio\lighthouse.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-beetle.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-clouds.jpg" />
     <None Include="wwwroot\images\portfolio\modals\m-liberty.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-lighthouse.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-salad.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-shutterbug.jpg" />
-    <None Include="wwwroot\images\portfolio\salad.jpg" />
-    <None Include="wwwroot\images\portfolio\shutterbug.jpg" />
     <None Include="wwwroot\images\profile-pic.jpg" />
     <None Include="wwwroot\images\sample-image.jpg" />
   </ItemGroup>
