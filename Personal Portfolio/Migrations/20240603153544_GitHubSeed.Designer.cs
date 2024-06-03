@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Personal_Portfolio.Data;
 
@@ -10,9 +11,11 @@ using Personal_Portfolio.Data;
 namespace Personal_Portfolio.Migrations
 {
     [DbContext(typeof(ContactContext))]
-    partial class ContactContextModelSnapshot : ModelSnapshot
+    [Migration("20240603153544_GitHubSeed")]
+    partial class GitHubSeed
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -76,7 +79,7 @@ namespace Personal_Portfolio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("SocialMediaInfos");
+                    b.ToTable("SocialMedia");
 
                     b.HasData(
                         new

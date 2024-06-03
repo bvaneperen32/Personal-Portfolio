@@ -27,6 +27,7 @@ namespace Personal_Portfolio.Controllers
 			if (ModelState.IsValid) {
 				_context.Add(contactInfo);
 				await _context.SaveChangesAsync();
+				ViewBag.Message = "Your message was sent, thank you!"; 
 				return RedirectToAction(nameof(Contact));
 			}
 

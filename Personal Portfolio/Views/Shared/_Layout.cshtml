@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@using Personal_Portfolio.Models; 
+
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!-->
@@ -73,13 +74,7 @@
 
 		<div class="col-six tab-full pull-right social">
 
-			<ul class="footer-social">
-				<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="#"><i class="fa fa-behance"></i></a></li>
-				<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-				<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-			</ul>
+				@await Component.InvokeAsync("SocialMediaLinks")
 
 		</div>
 

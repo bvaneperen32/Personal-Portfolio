@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Personal_Portfolio.Data;
 
@@ -10,9 +11,11 @@ using Personal_Portfolio.Data;
 namespace Personal_Portfolio.Migrations
 {
     [DbContext(typeof(ContactContext))]
-    partial class ContactContextModelSnapshot : ModelSnapshot
+    [Migration("20240603151302_SocialMediaInfo")]
+    partial class SocialMediaInfo
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -76,37 +79,7 @@ namespace Personal_Portfolio.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("SocialMediaInfos");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            IconClass = "fa fa-instagram",
-                            Platform = "Instagram",
-                            Url = "TODO"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            IconClass = "fa fa-linkedin",
-                            Platform = "LinkedIn",
-                            Url = "TODO"
-                        },
-                        new
-                        {
-                            Id = 3,
-                            IconClass = "fa fa-twitter",
-                            Platform = "Twitter",
-                            Url = "TODO"
-                        },
-                        new
-                        {
-                            Id = 4,
-                            IconClass = "fa fa-github",
-                            Platform = "GitHub",
-                            Url = "TODO"
-                        });
+                    b.ToTable("SocialMedia");
                 });
 #pragma warning restore 612, 618
         }

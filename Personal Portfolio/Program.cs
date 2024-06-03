@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Personal_Portfolio.Data;
+using Personal_Portfolio.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ContactContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("ContactInfo")));
+
+builder.Services.AddScoped<SocialMediaService>();
+
+
 
 var app = builder.Build();
 
