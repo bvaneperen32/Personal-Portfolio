@@ -18,36 +18,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Web\Portfolio\Personal Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Components/Footer/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/Portfolio.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW8uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/Resume.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bWUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Web/Portfolio/Personal Portfolio/Views/Home/Services.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZXJ2aWNlcy5jc2h0bWw=
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Components/Header/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Web/Portfolio/Personal Portfolio/Views/Shared/Components/SocialMediaLinks/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsTWVkaWFMaW5rc1xEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Web/Portfolio/Personal Portfolio/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBvcnRmb2xpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Resume.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlc3VtZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Web/Portfolio/Personal Portfolio/Views/Shared/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNlcnZpY2VzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Web/Portfolio/Personal Portfolio/Views/Shared/_ValidationScriptsPartial.cshtml]

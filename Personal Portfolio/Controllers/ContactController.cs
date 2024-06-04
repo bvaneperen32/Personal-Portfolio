@@ -24,14 +24,16 @@ namespace Personal_Portfolio.Controllers
 		[ValidateAntiForgeryToken]
 		public async Task<IActionResult> SubmitContactForm(ContactInfo contactInfo)
 		{
-			if (ModelState.IsValid) {
+			if (ModelState.IsValid)
+			{
 				_context.Add(contactInfo);
 				await _context.SaveChangesAsync();
-				ViewBag.Message = "Your message was sent, thank you!"; 
-				return RedirectToAction(nameof(Contact));
+				ViewBag.SuccessfulMessage = "Your message was sent, thank you!";
+				return View("Contact");
 			}
 
-			return View("~/Views/Home/Contact.cshtml", contactInfo);
+			return View("Contact", contactInfo);
+		
 		}
 
 

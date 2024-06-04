@@ -273,6 +273,10 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\myFavicon.png",
+      "PackagePath": "staticwebassets\\images\\myFavicon.png"
+    },
+    {
       "Id": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\liberty.jpg",
       "PackagePath": "staticwebassets\\images\\portfolio\\liberty.jpg"
     },

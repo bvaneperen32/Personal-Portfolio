@@ -16,18 +16,13 @@
 		</div>
 	</div> <!-- /section-intro -->
 
-	@if (ViewBag.Messsage != null)
-	{
-		<div id="message-success">
-			<i class="fa fa-check"></i>@ViewBag.Message<br />
-		</div>
-	}
-
 	<div class="row contact-form">
 		<div class="col-twelve">
-			<!-- form -->
-			<form asp-action="SubmitContactForm" asp-controller="Contact" method="post">
-				<fieldset>
+			@if (ViewBag.SuccessfulMessage == null)
+			{
+				<!-- form -->
+				<form asp-action="SubmitContactForm" asp-controller="Contact" method="post">
+					<fieldset>
 					<div class="form-field">
 						<input asp-for="Name" class="form-control" placeholder="Name" />
 						<span asp-validation-for="Name" class="text-danger"></span>
@@ -57,12 +52,16 @@
 					</div>
 				</fieldset>
 			</form>
+			}
 			<!-- contact-warning -->
 			<div id="message-warning"></div>
 			<!-- contact-success -->
-			<div id="message-success">
-				<i class="fa fa-check"></i>Your message was sent, thank you!<br>
-			</div>
+				@if (ViewBag.SuccessfulMessage != null)
+				{
+					<div id="message-success">
+					<i class="fa fa-check"></i> @ViewBag.SuccessfulMessage <br/>
+					</div>
+				}
 		</div> <!-- /col-twelve -->
 	</div> <!-- /contact-form -->
 

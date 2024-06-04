@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "z4qb8zKoMCMGAepfFixrI8GiQYdfdHSw84fcczWnxjo=",
+  "Hash": "XsXHVlUW9xOeSan3Leza9SDqGAa/ibryL98oYphoT4A=",
   "Source": "Personal Portfolio",
   "BasePath": "_content/Personal Portfolio",
   "Mode": "Default",
@@ -1326,6 +1326,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\myFavicon.png",
+      "SourceId": "Personal Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\",
+      "BasePath": "_content/Personal Portfolio",
+      "RelativePath": "images/myFavicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\myFavicon.png"
     },
     {
       "Identity": "C:\\Web\\Portfolio\\Personal Portfolio\\wwwroot\\images\\portfolio\\liberty.jpg",
