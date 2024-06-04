@@ -2,7 +2,7 @@
 using Personal_Portfolio.Services;
 
 
-namespace Personal_Portfolio.Views.Home.Components
+namespace Personal_Portfolio.Views.Shared.Components
 {
     public class SocialMediaLinksViewComponent : ViewComponent
     {
