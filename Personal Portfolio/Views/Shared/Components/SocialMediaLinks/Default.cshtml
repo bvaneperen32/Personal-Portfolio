@@ -1,0 +1,8 @@
+﻿@model List<Personal_Portfolio.Models.SocialMediaInfo>
+
+<ul class="@ViewBag.CssClass">
+    @foreach (var link in Model)
+    {
+        <li><a href="@link.Url" target="_blank"><i class="@link.IconClass"></i></a></li>
+    }
+</ul>

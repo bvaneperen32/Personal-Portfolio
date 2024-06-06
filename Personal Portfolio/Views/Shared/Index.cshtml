@@ -1,0 +1,32 @@
+﻿@{
+	ViewData["Title"] = "Home";
+}
+<section id="intro">
+
+	<div class="intro-overlay"></div>
+
+	<div class="intro-content">
+		<div class="row">
+
+			<div class="col-twelve">
+
+				<h5>Hello,</h5>
+				<h1>I'm Brody Van Eperen</h1>
+
+				<p class="intro-position">
+					<span>Software Engineer</span>
+					<span>Student</span>
+				</p>
+
+				<a class="button stroke" asp-controller="Home" asp-action="About" title="">More About Me</a>
+
+			</div>
+
+		</div>
+	</div> <!-- /intro-content -->
+
+	<div class="intro-social">
+		@await Component.InvokeAsync("SocialMediaLinks", new { cssClass = "intro-social" })
+	</div>
+
+</section> <!-- /intro -->

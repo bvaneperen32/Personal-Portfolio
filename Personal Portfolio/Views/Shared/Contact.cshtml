@@ -1,0 +1,117 @@
+﻿@model ContactInfo; 
+
+@{
+	ViewData["Title"] = "Contact";
+}
+<section id="contact">
+
+	<div class="row section-intro">
+		<div class="col-twelve">
+
+			<h5>Contact</h5>
+			<h1>I'd Love To Hear From You.</h1>
+
+			<p class="lead">If you are interested in reaching out leave your name, email, and a short message with a subject!</p>
+
+		</div>
+	</div> <!-- /section-intro -->
+
+	<div class="row contact-form">
+		<div class="col-twelve">
+			@if (ViewBag.SuccessfulMessage == null)
+			{
+				<!-- form -->
+				<form asp-action="SubmitContactForm" asp-controller="Contact" method="post">
+					<fieldset>
+					<div class="form-field">
+						<input asp-for="Name" class="form-control" placeholder="Name" />
+						<span asp-validation-for="Name" class="text-danger"></span>
+					</div>
+					<div class="form-field">
+						<input asp-for="Email" class="form-control" placeholder="Email" />
+						<span asp-validation-for="Email" class="text-danger"></span>
+					</div>
+					<div class="form-field">
+						<input asp-for="Subject" class="form-control" placeholder="Subject" />
+						<span asp-validation-for="Subject" class="text-danger"></span>
+					</div>
+					<div class="form-field">
+						<textarea asp-for="Message" class="form-control" placeholder="Message" rows="10" cols="50"></textarea>
+						<span asp-validation-for="Message" class="text-danger"></span>
+					</div>
+					<div class="form-field">
+						<button type="submit" class="submitform">Submit</button>
+						<div id="submit-loader">
+							<div class="text-loader">Sending...</div>
+							<div class="s-loader">
+								<div class="bounce1"></div>
+								<div class="bounce2"></div>
+								<div class="bounce3"></div>
+							</div>
+						</div>
+					</div>
+				</fieldset>
+			</form>
+			}
+			<!-- contact-warning -->
+			<div id="message-warning"></div>
+			<!-- contact-success -->
+				@if (ViewBag.SuccessfulMessage != null)
+				{
+					<div id="message-success">
+					<i class="fa fa-check"></i> @ViewBag.SuccessfulMessage <br/>
+					</div>
+				}
+		</div> <!-- /col-twelve -->
+	</div> <!-- /contact-form -->
+
+	<div class="row contact-info">
+
+		<div class="col-four tab-full">
+
+			<div class="icon">
+				<i class="icon-pin"></i>
+			</div>
+
+			<h5>Where to find me</h5>
+
+			<p>
+				1600 Amphitheatre Parkway<br>
+				Mountain View, CA<br>
+				94043 US
+			</p>
+
+		</div>
+
+		<div class="col-four tab-full collapse">
+
+			<div class="icon">
+				<i class="icon-mail"></i>
+			</div>
+
+			<h5>Email Me At</h5>
+
+			<p>
+				bvaneperen@hbs.net<br>
+				bvaneperen@wisc.edu
+			</p>
+
+		</div>
+
+		<div class="col-four tab-full">
+
+			<div class="icon">
+				<i class="icon-phone"></i>
+			</div>
+
+			<h5>Call Me At</h5>
+
+			<p>
+				Phone: (920)-915-0707
+			</p>
+
+		</div>
+
+	</div> <!-- /contact-info -->
+
+</section> <!-- /contact -->
