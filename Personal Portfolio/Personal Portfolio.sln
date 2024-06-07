@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{DBAFD8E7-054E-4B1F-B0C5-E3013DEF7348}"
 	ProjectSection(SolutionItems) = preProject
 		..\.gitignore = ..\.gitignore
+		..\.github\workflows\azure-webapps-dotnet-core.yml = ..\.github\workflows\azure-webapps-dotnet-core.yml
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
