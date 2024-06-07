@@ -4,3 +4,6 @@
 
 /.vs
 /Personal Portfolio/.vs/Personal Portfolio
+bin
+obj
+/Personal Portfolio/appsettings.development.json
