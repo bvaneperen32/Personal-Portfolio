@@ -25,12 +25,9 @@
     <None Include="wwwroot\fonts\icomoon.woff" />
     <None Include="wwwroot\js\main.js" />
     <None Include="wwwroot\js\modernizr.js" />
-    <None Include="wwwroot\images\favicon.png" />
     <None Include="wwwroot\images\bg.jpg" />
     <None Include="wwwroot\images\intro-bg.jpg" />
     <None Include="wwwroot\images\logo.png" />
-    <None Include="wwwroot\images\portfolio\liberty.jpg" />
-    <None Include="wwwroot\images\portfolio\modals\m-liberty.jpg" />
     <None Include="wwwroot\images\profile-pic.jpg" />
     <None Include="wwwroot\images\sample-image.jpg" />
   </ItemGroup>
