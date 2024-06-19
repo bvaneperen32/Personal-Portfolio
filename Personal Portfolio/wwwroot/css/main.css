@@ -1867,6 +1867,8 @@ header .logo a {
 	transform: scale(1.05);
 }
 
+
+
 /**
  * responsive:
  * portfolio
@@ -1892,6 +1894,61 @@ header .logo a {
  * Popup Modal - (_layout.scss)
  * ------------------------------------------------------------------
  */
+
+.slideshow-container {
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+.mySlides {
+    display: block; /* or inline, inline-block, etc., depending on your layout needs */
+    opacity: 1; /* Fully opaque */
+}
+
+	.mySlides.show {
+		display: block; /* Only show the current slide */
+		opacity: 1; /* Make it fully visible */
+	}
+
+.prev, .next {
+	cursor: pointer;
+	position: absolute;
+	top: 50%;
+	width: auto;
+	padding: 16px;
+	margin-top: -22px;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	transition: 0.6s ease;
+	border-radius: 0 3px 3px 0;
+	user-select: none;
+}
+
+.next {
+	right: 0;
+	border-radius: 3px 0 0 3px;
+}
+
+	.prev:hover, .next:hover {
+		background-color: rgba(0,0,0,0.8);
+	}
+
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+
+	.active, .dot:hover {
+		background-color: #717171;
+	}
 .popup-modal {
 	max-width: 550px;
 	background: #FFFFFF;
@@ -1901,9 +1958,11 @@ header .logo a {
 .popup-modal .media {
 	position: relative;
 }
-.popup-modal img {
-	vertical-align: bottom;
-}
+	.popup-modal img {
+		opacity: 1 !important;
+		visibility: visible !important;
+		display: block !important;
+	}
 .popup-modal .description-box {
 	padding: 1.8rem 3.6rem 3rem;
 }
